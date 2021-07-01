@@ -1,11 +1,12 @@
 
-function Account(name, document) {//indicamos que valores son los importantes para nuestro 
-    this.id;                        //método constructor
-    this.name = name;
-    this.document = document;
-    this.email;
-    this.password;
-
+class Account{//Creamos nuestra clase con el nuevo EcmaScript6
+    constructor(name, document){
+        this.id;                        //método constructor
+        this.name = name;
+        this.document = document;
+        this.email;
+        this.password;
+    }
 }
 
 //creamos nuestra clase con diferentes atributos
