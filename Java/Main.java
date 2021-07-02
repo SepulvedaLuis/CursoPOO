@@ -3,7 +3,7 @@ package Java;
 class Main {
     public static void main(String[] args) {
         // System.out.println("Hola Mundo");
-        Car car = new Car("AMQ123", new Account("Andres Herrera", "CDB1235"), 4);
+        Car car = new Car("AMQ123", new Account("Andres Herrera", "CDB1235"));
         // Lo que ganamos definiendo el método contructor fue que reducir líneas de
         // código y podemos
         // encontrar que al definir nuestro objeto car le debemos pasar nuestros datos
