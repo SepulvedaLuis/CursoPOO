@@ -6,10 +6,11 @@ class Account {
     public $email;
     public $password;
     //creamos nuestro método constructor
-    public function __CONSTRUCT($name, $document) {
+    public function __construct($name, $document){
         $this->name = $name;
         $this->document = $document;
     }
+
 }
 //Creamoas nuestra clase con los atributos indicados
 ?>

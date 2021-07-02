@@ -1,8 +1,9 @@
 <?php
-class Route{
+class Route {
     public $id;
-    public $start = [];
-    public $end = [];
+    public $init = array();
+    public $end = array();
 }
+
 //Creamos nuestra clase con dos de sus atributos tipo arrays
 ?>
