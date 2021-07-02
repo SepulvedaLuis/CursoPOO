@@ -1,18 +1,18 @@
 class Car{ //Creamos nuestra clase y meodo contrusctor con EcmaScript6
 
-    constructor(license, driver, passenger){
-        this.id;                     
+    constructor(license, driver) {
+        this.id;
         this.license = license;
         this.driver = driver;
-        this.passenger = passenger;
+        this.passenger;
     }
 
     printDataCar() {
         console.log(this.driver);
         console.log(this.driver.name);
         console.log(this.driver.document);
-        console.log(this.passenger);
     }
+    
 }
 
 // function Car(license, driver, passenger) { //Indicandolo los atributos que deseamos ya generamos nuestro
