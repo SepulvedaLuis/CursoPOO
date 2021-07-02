@@ -1,1 +1,0 @@
-Archivo prueba para verificar que nuestro repositorio local y remoto esten conectados de manera correcta
