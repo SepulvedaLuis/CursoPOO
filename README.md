@@ -7,4 +7,4 @@
 > - **JavaScript**
 > - **Python**
 
-###  :tw-1f680:  #NuncaParesDeAprender :tw-1f49a:
+###  #NuncaParesDeAprender 💚
